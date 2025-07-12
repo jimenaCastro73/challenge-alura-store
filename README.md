@@ -11,8 +11,6 @@ El objetivo es evaluar métricas clave como:
 - Productos destacados  
 - Costos de envío  
 
-...para determinar cuál tienda es la mejor opción para comercializar productos.
-
 El análisis fue desarrollado en **Python** utilizando **Google Colab** (Python 3), estructurado en un cuaderno **Jupyter Notebook**:  
 📄 `AluraStoreLatam.ipynb`
 
